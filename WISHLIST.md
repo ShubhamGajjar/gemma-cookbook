@@ -1,16 +1,13 @@
 A wish list of cookbooks showcasing:
 
 * Inference
-  * Integration with [Google GenKit](https://firebase.google.com/products/genkit)
-  * Llamafile demo
-  * llama.cpp demo
-  * HF local-gemma demo
-  * ElasticSearch integration
-  * Gemma+Gemini with [routerLLM](https://github.com/lm-sys/RouteLLM)
 
-* Fintuning
-  * Finetuning CodeGemma (e.g., SQL generation)
-  * Finetuning Gemma for function calling
+* Fine-tuning
+  * Fine-tuning Gemma for function calling
+  * Fine-tuning Gemma and/or CodeGemma for multi-turn, agentic workloads.
 
+* Continued Pretraining
+  * Continue to pretrain Gemma on TPU
+     
 * Responsible AI
   * Use [LLM Comparator](https://github.com/pair-code/llm-comparator) to compare Gemma with another LLM (i.e., Llama)
